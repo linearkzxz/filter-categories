@@ -2,5 +2,5 @@
 
 ## Run the application
 
-npm install
-npm start
+npm install <br />
+npm start <br />
